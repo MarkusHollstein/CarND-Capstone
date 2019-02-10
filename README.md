@@ -13,7 +13,7 @@ Team members:
     Markus Hollstein : mhollstein1@gmx.de
     Mamdouh Murad : mamdouh93morad@gmail.com
 
-Please use one of the two installation options, either native or docker installation.
+
 
 
 Please use **one** of the two installation options, either native **or** docker installation.
